@@ -1,6 +1,4 @@
 import type { NextPage } from 'next'
-import Disconnected from '../components/Disconnected'
-import Connected from '../components/Connected'
 import { useConnection, useWallet } from '@solana/wallet-adapter-react'
 import MainLayout from '../components/MainLayout'
 import { Container, VStack, Heading, Text, Image, Button, HStack } from '@chakra-ui/react'
