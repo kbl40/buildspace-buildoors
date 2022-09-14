@@ -5,7 +5,7 @@ import { Box, Center, Spacer, Stack } from '@chakra-ui/react'
 import NavBar from '../components/NavBar'
 import { useWallet } from '@solana/wallet-adapter-react'
 
-//trivial change
+//trivial changes
 
 const MainLayout: FC<{ children: ReactNode }> = ({ children }) => {
     const { connected } = useWallet()
