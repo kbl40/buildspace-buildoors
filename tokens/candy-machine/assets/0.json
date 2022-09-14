@@ -1,0 +1,40 @@
+{
+    "name": "Buildoor #1",
+    "symbol": "BLDR",
+    "description": "Web3 Buildoors changing the internet for the better",
+    "image": "0.png",
+    "attributes": [
+        {
+            "trait_type": "hair-length",
+            "value": "short"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "sun-glasses"
+        },
+        {
+            "trait_type": "nose-shape",
+            "value": "round"
+        },
+        {
+            "trait_type": "language",
+            "value": "python"
+        },
+        {
+            "trait_type": "background-color",
+            "value": "limegreen"
+        },
+        {
+            "trait_type": "buildoor-fuel",
+            "value": "coffee"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "0.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}
