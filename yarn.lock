@@ -3342,6 +3342,11 @@
   "resolved" "https://registry.npmjs.org/available-typed-arrays/-/available-typed-arrays-1.0.5.tgz"
   "version" "1.0.5"
 
+"avsc@^5.7.5":
+  "integrity" "sha512-vkyt1+sj6qaD9oMtqqLE2pZ2IcHI66kFx8lpnVuXp55SnNPjKghfOhVfZpaDwDPpY0oVWP3Qu1uHZWxF3E856A=="
+  "resolved" "https://registry.npmjs.org/avsc/-/avsc-5.7.5.tgz"
+  "version" "5.7.5"
+
 "avsc@https://github.com/Bundlr-Network/avsc#csp-fixes":
   "resolved" "git+ssh://git@github.com/Bundlr-Network/avsc.git#a730cc8018b79e114b6a3381bbb57760a24c6cef"
   "version" "5.4.7"
